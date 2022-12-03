@@ -3,7 +3,7 @@
 %        Version: 1.0
 %        Date   : Dec. 2022
 %
-%    This demo shows the TLRSR-IDL model for hyperspectral image classification.
+%    This demo implements the TLRSR-IDL model for hyperspectral image classification.
 %
 %    
 %
